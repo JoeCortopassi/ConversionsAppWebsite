@@ -195,7 +195,7 @@
 				"Meters" 		: 1.0,
 				"Kilometers"	: 1000.0
 			},
-			"info" : "length Lorem ipsum dolor sit amet, consectetur adipisicing elit. Natus blanditiis quas impedit fugit perspiciatis numquam eveniet molestiae nostrum ipsam minus maiores iste sed voluptates consequuntur temporibus illum expedita molestias animi ea vitae fugiat ullam ad neque harum nemo? Optio animi molestiae impedit blanditiis dignissimos dolores exercitationem. Libero nemo excepturi repudiandae vel animi alias quos mollitia cupiditate totam consequatur ut velit sit harum nulla odit eligendi placeat voluptates odio. Nihil aliquid deleniti error officia officiis velit rem quas temporibus magnam sit repellat architecto fugiat ex id provident nobis praesentium ipsa incidunt dolore illo dolorum qui modi consectetur animi vero fugit autem!"
+			"info" : "<p>Length is the unit of measure used to determine the distance between two points. While these two points may exist on a non-flat surface (e.g spere, ellipsoid), length can still be expressed in linear units (e.g. feet, meters, miles). Even though there are many different ways to measure length, there are some common types that people often refer to when converting measurements:</p><ul><li>Inches in a Foot</li><li>Feet in a Mile</li><li>Miles to Kilometers</li><li>Centimeters to inches</li><li>Yards in a Mile</li></ul>"
 		},
 		"weight" : {
 			"standardUnits" : "Kilograms",
@@ -208,7 +208,7 @@
 				"Tons"			: 907.18474,
 				"Metric Tons"	: 1000.0
 			},
-			"info" : "weight Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos eveniet a amet voluptatem eaque quam nemo non quo rem nam perferendis nisi porro architecto modi ex quasi vitae est odit sint dolor ipsam ut commodi consequuntur quod dicta corporis placeat asperiores excepturi inventore error! Nulla placeat odit architecto veritatis enim iusto cum hic sit dicta suscipit. Dignissimos rem atque soluta corporis quae facere enim porro provident asperiores expedita ducimus aspernatur maiores rerum libero impedit accusantium quam vero iure earum tempore sint beatae mollitia error optio quis veritatis itaque. Recusandae accusantium neque suscipit quo perferendis explicabo dolor est illum reprehenderit illo."
+			"info" : "<p>Weight is the measure of how strongly a gravitational field pulls on an object. While these measurements can vary wildly, depending on the gravitational field, for the purpose of clarity most measurements are in reference to the gravitational field on Earth's surface. Some common weight measurements to convert, are:</p><ul><li>Grams to Ounces</li><li>Pounds to Ounces</li><li>Kilograms to Pounds</li><li>Tons to Metric Tons</li><li>Tons to Pounds</li></ul>"
 		},
 		"volume" : {
 			"standardUnits" : "Liters",
@@ -221,7 +221,7 @@
                 "Liters"       : 0.001, 
                 "Gallons (US)" : 0.00378541178
 			},
-			"info" : "volume Lorem ipsum dolor sit amet, consectetur adipisicing elit. Temporibus dolore harum velit ipsam ullam atque ipsum laudantium modi molestias beatae quibusdam ex repellendus rerum cupiditate voluptate sed provident. Iste accusamus provident impedit labore iure magni et quia dignissimos temporibus officia enim eum recusandae fugiat. Voluptate nam pariatur molestiae distinctio nemo ad error aperiam porro magnam necessitatibus dolore et cum totam sunt illum fugiat suscipit neque autem iusto fuga? Fugit repudiandae dolore est quidem iusto atque dicta omnis veritatis voluptatibus facere sint exercitationem nostrum velit. Dignissimos officia fugit dolorum nostrum at tempore soluta officiis odit corrupti saepe possimus et consectetur tenetur."
+			"info" : "<p>Volume is the unit of measure describing the amount of space an object takes up. In it's simplest form, volume can be described as multiplying the height, by the width, by the objects depth. In conjunction with the weight of an object, volume can be used to find it's mass. Some examples of common units of volume to convert between are:</p><ul><li>Teaspoons in a Tablespoon</li><li>Cups in a Pint</li><li>Quarts to Gallons</li><li>Gallons to Liters</li><li>Quarts to Cups</li></ul>"
 		},
 		"time" : {
 			"standardUnits" : "Hours",
@@ -234,7 +234,7 @@
                 "Months"   : (24.0*30.5),
                 "Years"    : (24.0*365.25)
 			},
-			"info" : "time Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error voluptatibus consequatur voluptatum at magni quae similique illo labore ut mollitia animi quis sequi. Inventore aperiam dolorem hic non at aliquid natus qui fugit temporibus ratione aliquam eveniet rerum cupiditate recusandae quibusdam perspiciatis animi ut commodi distinctio doloremque quam esse dolores saepe veritatis officia eum atque. Iste quae ex deleniti rerum tempore accusamus quisquam eaque praesentium veritatis recusandae suscipit nemo itaque vitae totam at nam reprehenderit aliquid repudiandae eius voluptatibus dicta consectetur asperiores ipsam consequatur nesciunt impedit quis sequi magnam sunt et! Iste magnam est non inventore reiciendis ex quasi rerum?"
+			"info" : "<p>Time is the measurement of an interval between two events. In it's earliest form, time was measured by events that were immensely obvious, such as the setting of the sun every day. As technology grows, and the need for increased accuracy rises, more subtle events become units of measure, like the oscillations of a Cesium atom. Some common units of time, that are converted between, are:</p><ul><li>Hours in a Second</li><li>Seconds in a Minute</li><li>Days in a Month</li><li>Weeks in a Year</li></ul>"
 		},
 		"speed" : {
 			"standardUnits" : "Meters/Second",
@@ -244,7 +244,7 @@
                 "Meters/Second"    : 1.0,   
                 "Mile/Hour"        : 0.44704
 			},
-			"info" : "speed Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nulla quia dolorum amet recusandae perferendis dolorem sapiente saepe repellendus esse delectus consequatur suscipit accusantium repellat laborum officia quisquam fugit a earum optio enim dolor ipsum ipsam mollitia omnis laudantium reiciendis modi molestias non eius provident sed quibusdam porro. Dolorum mollitia voluptatum nemo beatae numquam quod fugiat rem dolore itaque excepturi. Molestias excepturi laboriosam ut voluptas similique nemo nam vitae quasi tempora atque necessitatibus error eum? Fugit officia nemo repellendus architecto voluptate ex voluptas necessitatibus sit consequuntur odio perspiciatis deserunt sequi vero sint suscipit voluptatum similique id recusandae possimus enim cupiditate."
+			"info" : "<p>Speed, like density, is actually the measurement of the relationship between two other types of measurements. Specifically, speed is the measure of distance an object travels, in a given time frame. While speed does have an absolute limit, in how fast light travels in a vacuum, most of the speeds we deal with on a day-to-day basis are but a fraction of that 'speed limit'. Some common units of speed, are:<ul><li>Feet a Second to Miles per Hour</li><li>Miles per Hour to Feet per Second</li></ul>"
 		},
 		"temperature" : {
 			"standardUnits" : "Kelvin",
@@ -479,6 +479,20 @@ console.log(this.__category, input, measurementType);
 		$(this).val(cleanValue);
 		Converter();	
 	});
+</script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-15830475-7']);
+  _gaq.push(['_setDomainName', 'joecortopassi.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
 </script>
 </body>
 </html>
