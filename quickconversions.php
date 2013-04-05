@@ -253,7 +253,7 @@
 				"Fahrenheit" 	: 1.0,
 				"Kelvin"		: 1.0
 			},
-			"info" : "temperature Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero necessitatibus voluptas animi quia provident aut architecto explicabo commodi facilis modi sapiente ut accusantium nobis distinctio beatae voluptatum repellat dolorem a iusto consectetur eius natus eum rerum est expedita delectus sequi ea consequuntur at numquam veritatis quasi similique ab corporis culpa soluta fuga sunt consequatur cum eos ullam rem aliquam voluptatem error incidunt voluptatibus! Quis officia quo dolorum incidunt vitae explicabo facilis quam quibusdam aliquam iste numquam cumque deserunt doloremque consequuntur porro veniam culpa accusamus sint iure vel. Nam excepturi eos libero fuga sint numquam temporibus perspiciatis officia cum non? Deserunt?"
+			"info" : "<p>Temperature, quite literally, is the measure of how much an object's atoms are moving or, in lay terms, how \"hot\" or \"cold\" something is. Because of how difficult it is to actually measure the movement of atoms, certain scales of measurement arose, to base the measurements to something that is more easily observable such as the freezing/boiling point of water. While there are a few different units of measure, the most common conversions happen between:</p><ul><li>Fahrenheit to Celsius</li><li>Celsius to Kelvin</li></ul>"
 		},
 		"area" : {
 			"standardUnits" : "Square Meter",
@@ -266,7 +266,7 @@
                 "Square Miles"     : 2589988.110336,
                 "Acre"             : 4046.8564224
 			},
-			"info" : "area Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit doloribus eaque aliquid ducimus assumenda nostrum illum. Illo aliquid quibusdam molestias numquam consectetur exercitationem doloremque vitae quae veritatis perspiciatis repudiandae alias iusto quis eveniet architecto enim odit corrupti officia facilis doloribus! Ducimus laudantium hic beatae necessitatibus eveniet optio mollitia ipsa ex cum eum expedita illum voluptas vel numquam quod dignissimos commodi a eaque dicta quibusdam repudiandae accusamus ipsam cumque possimus quam incidunt asperiores. Mollitia delectus porro maxime et aut amet laudantium rerum corporis beatae voluptatem vitae iure tempore suscipit unde odit possimus praesentium atque aliquid dolorum eligendi labore. Natus inventore quisquam."
+			"info" : "<p>Area is the amount of space occupied by a surface. While the surface of irregular objects such as spheres or mountains can be measured with area, it is perhaps most easily understood by taking a flat object and multiplying it's height by it's width. Some of the most common conversions of an area are:</p><ul><li>Square Miles to Acres</li><li>Square Inches to Square Feet</li><li>Square Feet to Square Meters</li></ul>"
 		}
 	};
 		
